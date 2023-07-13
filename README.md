@@ -1,4 +1,4 @@
-# chatbox-using-react-and-node-js
+# Realtime-chatbox
 
 to run:-
 terminal:- Bash1
